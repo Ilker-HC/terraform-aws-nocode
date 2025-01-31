@@ -2,3 +2,5 @@
 # SPDX-License-Identifier: MPL-2.0
 
 resource "random_pet" "random" {}
+resource "random_pet" "random2" {}
+
