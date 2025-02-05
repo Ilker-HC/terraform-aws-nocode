@@ -6,3 +6,4 @@ resource "random_pet" "random2" {}
 resource "random_pet" "random3" {}
 resource "random_pet" "random4" {}
 resource "random_pet" "random5" {}
+resource "random_pet" "random6" {}
